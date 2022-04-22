@@ -1,0 +1,6 @@
+rootProject.name = 'Netology_1_4_BuildersTask2'
+include 'db'
+include 'api'
+include 'service'
+
+
